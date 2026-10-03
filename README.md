@@ -9,7 +9,8 @@ Allows you to run user created scripts while inside of Studio Lite's 'Play Mode'
 # Script "Source" Injector
 Allows you to Create either a LocalScript or Server Script with custom Source Code while inside of Studio Lite's 'Play Mode'
 
-https://axos-stuff-customizablegifs.acc943132.workers.dev/?text=no+image+found+:(
+<img width="320" height="80" alt="1000120472" src="https://github.com/user-attachments/assets/92145ca1-42d2-4963-9bf4-ec7194728a03" />
+
 
 # BlokScript
 Easily create scripts via Block Coding like in Scratch!
