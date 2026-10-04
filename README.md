@@ -1,6 +1,9 @@
 # ezCode-Addons
 Addons for ezCode in Studio Lite
 
+[NOTE]
+These addons should only be run INSIDE of Studio Lite and should NOT be used incorrectly
+
 # ScriptRunner
 Allows you to run user created scripts while inside of Studio Lite's 'Play Mode'
 
