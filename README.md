@@ -23,9 +23,12 @@ BlokScript also easily translates your visual blocks into Luau text
 BlokScript is a Multi Addon for ezCode (this means you will have to use external dependencies such as ScriptRunner to unlock BlokScript's full potential)
 [ScriptRunner is included with BlokScript]
 
-<img width="1600" height="720" alt="1000120134" src="https://github.com/user-attachments/assets/d648b1fd-e708-429c-83c2-e0f644f5f5df" />
-<img width="1600" height="720" alt="1000120139" src="https://github.com/user-attachments/assets/58fd3bf4-7ee0-47b7-ab32-3faa665c5125" />
-<img width="633" height="720" alt="1000120140" src="https://github.com/user-attachments/assets/01b1072c-0978-4495-93d1-1ddb89a55139" />
+<img width="1600" height="720" alt="1000120559" src="https://github.com/user-attachments/assets/5c302262-90b6-42fb-a175-81c6a38732a2" />
+<img width="1600" height="720" alt="1000120563" src="https://github.com/user-attachments/assets/bcc3dabe-3f90-46e3-9415-5b8360925b3c" />
+<img width="1600" height="720" alt="1000120562" src="https://github.com/user-attachments/assets/a875a953-843e-4c94-91bb-e67536baa49b" />
+<img width="1600" height="720" alt="1000120561" src="https://github.com/user-attachments/assets/1a930ad4-0b36-40f5-8b7b-50312014ec50" />
+<img width="1600" height="720" alt="1000120560" src="https://github.com/user-attachments/assets/f776ad3d-104b-4091-8760-078b3b34c782" />
+
 
 
 
